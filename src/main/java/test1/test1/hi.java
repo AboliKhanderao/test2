@@ -10,8 +10,6 @@ System.out.println("hi aboli and boby");
 
 System.out.println("hi aboli and anki");
 
-System.out.println("Sachin");	
-		
 				
 	}
 
